@@ -18,7 +18,19 @@ This repository features a project commissioned by a client on Upwork, serving a
 
 ### [Dataset Link](https://drive.google.com/file/u/1/d/1TfGT84sEv-KBXOwi735_ECr7gjTyCJNz/view?usp=sharing)
 
-### Uages
-
+### Usage
+    # Open a terminal window in Colab (**Runtime** > **Change runtime type** and select a GPU runtime if desired). Then, run the following command to download the project's code and dataset:
+    # Mount Google Drive
+    from google.colab import drive
+    drive.mount('/content/drive')
+    
+    import os
+    %cd "/content/drive/MyDrive/Colab Notebooks"
+    os.mkdir("6834163")
+    %cd "/content/drive/MyDrive/Colab Notebooks/6834163"
+    
+    # Clone the GitHub repository
+    !git clone https://github.com/mirzaaa101/Vehicle-Re-identification-Using-Computer-Vision.git
+    # The 'Vehicle-Re-identification.ipynb' notebook is now available. Open the 'Vehicle-Re-identification.ipynb' notebook from the provided location in Colab to begin exploring the code.
 ### Author
     Mirza Abbas Uddin
