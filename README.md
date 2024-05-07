@@ -11,8 +11,14 @@ Vehicle re-identification (Re-ID) is a challenging computer vision task that aim
   - Design and implement a convolutional neural network for vehicle Re-ID.
   - Apply appropriate training strategies to learn a discriminative CNN for representation learning.
   - Conduct a scientific investigation into fine-grained image retrieval systems in general.
+    
+### Repository Information
+
+This repository features a project commissioned by a client on Upwork, serving as coursework for the [University of Surrey](https://www.surrey.ac.uk/). I have obtained explicit consent from the client to showcase this work in my GitHub portfolio.
 
 ### [Dataset Link](https://drive.google.com/file/u/1/d/1TfGT84sEv-KBXOwi735_ECr7gjTyCJNz/view?usp=sharing)
+
+### Uages
 
 ### Author
     Mirza Abbas Uddin
